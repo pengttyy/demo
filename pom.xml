@@ -61,6 +61,6 @@
     </repositories>
     
     <test>    
-    
+    <github/>
 </project>
 
