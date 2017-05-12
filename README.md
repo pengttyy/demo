@@ -13,11 +13,9 @@ kaos
 
 kaos
 ttttt
-test
+
 
 eclipse
-
-
 '''
   public void static main(String[] args){
       System.out.println("msg");
