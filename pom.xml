@@ -59,8 +59,5 @@
             </snapshots>
         </repository>
     </repositories>
-    
-    <test>    
-    <github/>
 </project>
 

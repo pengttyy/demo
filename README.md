@@ -1,15 +1,25 @@
-这是在eclipse中添加的
-杩欐槸github涓殑淇敼
-鏃ヤ簡鐙椾簡
-eclipse中修改
-eclipse第四次修改
+杩欐槸鍦╡clipse涓坊鍔犵殑
+鏉╂瑦妲竒ithub娑擃厾娈戞穱顔芥暭
+閺冦儰绨￠悪妞剧啊
+eclipse涓慨鏀�
+eclipse绗洓娆′慨鏀�
 three
 number
 four
 nine
 ten
 kaos
-鍞犱細鍡?
+閸炵姳绱伴崱?
 
 kaos
 ttttt
+test
+
+eclipse
+
+
+'''
+  public void static main(String[] args){
+      System.out.println("msg");
+  }
+'''
