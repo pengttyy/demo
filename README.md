@@ -13,3 +13,10 @@ kaos
 
 kaos
 ttttt
+
+
+'''
+  public void static main(String[] args){
+      System.out.println("msg");
+  }
+'''
